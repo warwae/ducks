@@ -1,0 +1,61 @@
+header{
+height: 300px;
+background-color: rgb(120, 255, 188);
+text-align: center;
+color: rgb(243, 243, 243);
+padding: 50px;
+font-size: 50px;
+background-image: url(https://moscowchanges.ru/wp-content/uploads/2023/08/duck.jpg);
+background-size:cover
+}
+
+body{
+    margin: 0px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-image: url(https://www.funnyart.club/uploads/posts/2023-04/1682886242_funnyart-club-p-kamishi-na-ozere-priroda-krasivaya-60.jpg);
+ background-size:cover;
+    width: 80%;
+    padding: 20px;
+}
+
+.block1{
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+}
+
+.block2{
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+}
+
+.block3{
+    text-align: center;
+}
+
+.block4{
+    text-align: center;
+}
+
+.block5{
+    display: flex;
+    justify-content: center
+}
+
+.block6{
+    text-align:center
+}
+
+.block7{
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+}
